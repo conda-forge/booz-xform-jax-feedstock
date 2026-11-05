@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.5.0"
+  version: "0.5.1"
   python_min: "3.10"
 
 package:
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/b/booz-xform-jax/booz_xform_jax-${{ version }}.tar.gz
-  sha256: 25c33dce8cabda5541c91a69a07e8b3affab5c188e2d93300fcfe705e2b97667
+  sha256: 553cdd33c1b1a0c158f9d29c7d4737ab24f1626b96e872459bbf0317405a9463
 
 build:
   number: 0
