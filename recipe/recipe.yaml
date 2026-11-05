@@ -9,7 +9,7 @@ package:
   version: ${{ version }}
 
 source:
-  url: https://pypi.org/packages/source/b/booz-xform-jax/booz_xform_jax-${{ version }}.tar.gz
+  url: https://files.pythonhosted.org/packages/source/b/booz-xform-jax/booz_xform_jax-${{ version }}.tar.gz
   sha256: 553cdd33c1b1a0c158f9d29c7d4737ab24f1626b96e872459bbf0317405a9463
 
 build:
